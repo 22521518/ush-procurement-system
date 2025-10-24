@@ -1,0 +1,6 @@
+[submodule "backend/backend"]
+	path = backend/backend
+	url = https://gitlab.uhsvnu.com/uhs-eduassetprocure/uhs.eduassetprocure.fe.git
+[submodule "be"]
+	path = be
+	url = https://gitlab.uhsvnu.com/uhs-eduassetprocure/uhs.eduassetprocure.be.git
