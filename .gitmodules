@@ -1,3 +1,6 @@
 [submodule "be"]
 	path = be
 	url = https://gitlab.uhsvnu.com/uhs-eduassetprocure/uhs.eduassetprocure.be.git
+[submodule "fe"]
+	path = fe
+	url = https://gitlab.uhsvnu.com/uhs-eduassetprocure/uhs.eduassetprocure.fe.git
